@@ -5,26 +5,35 @@
 
 Tracking Changes:
 Version control systems(vcs) records every modification made to files, enabling developers to see the history of changes.
+
 Branching and Merging:
 Branching allows developers to work on isolated features without affecting the main codebase.Merging intergrates these changes into the main branch.
+
 Collaboration:
 Version control enables mutiple developers to work together on the same project simultaneously without overwriting each other's work.
+
 Backup and Recovery:
 Version Control acts as backup mechanism for project files.Even if a file is accidentally deleted or modified incorectly, previous version can be restored from repository's history.
 
 Why GitHub is popular:
+
 Intergration with Git:
 GitHub is built on Git, widely used distributed verstion control system.Git's flexibility and efficiency makes it a popular choice amomg developers.
+
 Collaboration Features:
 GitHub provides features like pull request, code reviews and issues tracking that enhances team collaboration.
+
 Community and Open Source:
 GitHub host a vast community of developers and a large number of open-source projects, fostering collaboration and knowledge sharing.
 
 How version control helps to maintain project integrity:
+
 Error Recovery:
 Developers can revert back to earlier version if bugs or issues arises inthe current state of the project.
+
 Accountability:
 The detailed history logs allow teams to track changes back to a specific contibutors and understand their rationale.
+
 Parallel development:
 Branching allows teams to experiment with new features without disrupting an ongoing work in the main barnch.
 
